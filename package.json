@@ -1,0 +1,20 @@
+{
+  "name": "anonalgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anonymizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aternus/csv-to-xlsx": "^1.0.19",
+    "bcrypt": "^5.0.1",
+    "csv": "^6.0.4",
+    "csv-parse": "^5.0.3",
+    "csv-stringify": "^6.0.4",
+    "lodash": "^4.17.21"
+  }
+}
